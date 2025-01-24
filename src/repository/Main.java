@@ -1,13 +1,10 @@
-import java.sql.SQLException;
+package repository;
+
+import entity.Author;
 
 public class Main {
     public static void main(String[] args){
-        try (var connection =  DB.connect()){
-            System.out.println("connected to the PostgreSQL database.");
-        } catch (SQLException e) {
-            System.err.println(e.getMessage());
-
-
-        }
+        AuthorDAO authorDAO = new AuthorDAO();
+        authorDAO.create(new Author(1, "test", "test@gmail.com"));
     }
 }
