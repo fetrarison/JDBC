@@ -6,6 +6,8 @@ public class Main {
             System.out.println("connected to the PostgreSQL database.");
         } catch (SQLException e) {
             System.err.println(e.getMessage());
+
+
         }
     }
 }
