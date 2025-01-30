@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="junit-platform-engine-1.12">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Téléchargements/junit-platform-engine-1.11.4" />
+      <root url="file://$USER_HOME$/Téléchargements/junit-platform-launcher-1.11.4" />
+      <root url="file://$USER_HOME$/Téléchargements/junit-platform-commons-1.11.4" />
+      <root url="file://$USER_HOME$/Téléchargements/junit-jupiter-engine-5.11.4" />
+      <root url="file://$USER_HOME$/Téléchargements/junit-jupiter-api-5.11.4" />
+      <root url="file://$USER_HOME$/Téléchargements/apiguardian-api-1.1.2" />
+      <root url="jar://$USER_HOME$/Téléchargements/mockito-core-5.15.2.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/junit-jupiter-engine-5.11.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
