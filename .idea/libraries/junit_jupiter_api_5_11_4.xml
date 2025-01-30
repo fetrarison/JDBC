@@ -1,7 +1,6 @@
 <component name="libraryTable">
-  <library name="postgresql-42.7.4">
+  <library name="junit-jupiter-api-5.11.4">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Téléchargements/postgresql-42.7.4.jar!/" />
       <root url="jar://$USER_HOME$/Téléchargements/junit-jupiter-api-5.11.4.jar!/" />
     </CLASSES>
     <JAVADOC />
